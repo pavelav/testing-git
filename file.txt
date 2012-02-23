@@ -1,3 +1,5 @@
 This is just another file.
-My first edit.
+My first edit. Changing this line.
+Adding new line.
+Further changes to branch1
 Adding a line from master branch. Let's see how it works out.
