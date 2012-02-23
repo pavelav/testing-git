@@ -1,2 +1,3 @@
 This is just another file.
-My first edit.
+My first edit. Changing this line.
+Adding new line.
