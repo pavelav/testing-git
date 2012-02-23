@@ -1,2 +1,3 @@
 This is just another file.
 My first edit.
+Adding a line from master branch. Let's see how it works out.
